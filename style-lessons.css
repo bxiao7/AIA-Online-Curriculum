@@ -48,10 +48,11 @@ margin: 20px auto;
 }
 
 .lesson-content {
-    text-align: center;
     font-size: 23 px;
-    width: 75%;
-    background-color: gray;
+    text-align: center;
+    padding: 10px 10px;
+    background-color: rgb(226, 221, 221);
+    display: inline-block;
 }
  
-  /* same css as index - add module css if needed */
+/* same css as index - add module css if needed */
