@@ -7,7 +7,7 @@ body {
 
   /* good afternoon */
 
-h1, h3 {
+h1, h2, h3 {
     text-align: center;
 }
 h1, h2, h3{
@@ -17,34 +17,35 @@ h1 {
   font-size: 50px;
 }
 h2 {
-  font-size: 30px;
+  font-size: 40px;
 }
 h3 {
   font-size: 26px;
   font-weight: normal;
 }
+
   
-  .navbar {
-    background-color: #49694d;
-    color: white;
-    padding: 10px 0;
-    text-align: center;
-    font-family: 'Jost', sans-serif;
-    font-size: 20px;
-  }
-  .navbar a {
-    color: white;
-    padding: 10px 20px;
-    text-decoration: none;
-    display: inline-block;
-  }
-  .navbar a:hover {
-    background-color: #ddd;
-    color: black;
-  }
-  .container {
-    width: 80%;
-    margin: 20px auto;
-  }
+.navbar {
+background-color: #49694d;
+color: white;
+padding: 10px 0;
+text-align: center;
+font-family: 'Jost', sans-serif;
+font-size: 20px;
+}
+.navbar a {
+color: white;
+padding: 10px 20px;
+text-decoration: none;
+display: inline-block;
+}
+.navbar a:hover {
+background-color: #ffffff;
+color: black;
+}
+.container {
+width: 80%;
+margin: 20px auto;
+}
  
   /* same css as index - add module css if needed */
