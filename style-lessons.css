@@ -46,27 +46,5 @@ h3 {
     width: 80%;
     margin: 20px auto;
   }
-  .module {
-    background-color: white;
-    padding: 20px;
-    margin-bottom: 10px;
-    border-radius: 5px;
-  }
-  .module h2 {
-    color: #333;
-  }
-  .module p {
-    color: #666;
-  }
-   .module a {
-    display: inline-block;
-    padding: 10px;
-    background-color: rgb(87, 155, 98);
-    color: white;
-    border-radius: 5px;
-    text-decoration: none;
-    margin-top: 10px;
-  }
-  .module a:hover {
-    background-color: rgb(26, 79, 44);
-  }
+ 
+  /* same css as index - add module css if needed */
