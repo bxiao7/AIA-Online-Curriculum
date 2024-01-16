@@ -54,5 +54,9 @@ margin: 20px auto;
     background-color: rgb(226, 221, 221);
     display: inline-block;
 }
+
+.video {
+  text-align: center;
+}
  
 /* same css as index - add module css if needed */
