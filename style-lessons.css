@@ -7,7 +7,7 @@ body {
 
   /* good afternoon */
 
-h1, h2, h3 {
+h1, h2 {
     text-align: center;
 }
 h1, h2, h3{
@@ -20,8 +20,7 @@ h2 {
   font-size: 40px;
 }
 h3 {
-  font-size: 26px;
-  font-weight: normal;
+  font-size: 35px;
 }
   
 .navbar {
@@ -47,12 +46,14 @@ width: 80%;
 margin: 20px auto;
 }
 
-.lesson-intro {
+.lesson-content {
     font-size: 23 px;
-    text-align: center;
     padding: 10px 10px;
-    background-color: rgb(226, 221, 221);
     display: inline-block;
+}
+
+.lesson-content p{
+  text-align: center;
 }
 
 .video {
@@ -71,5 +72,3 @@ margin: 20px auto;
   height: 100%; 
 }
 
- 
-/* same css as index - add module css if needed */
