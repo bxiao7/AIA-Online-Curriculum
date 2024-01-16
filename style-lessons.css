@@ -47,7 +47,7 @@ width: 80%;
 margin: 20px auto;
 }
 
-.lesson-content {
+.lesson-intro {
     font-size: 23 px;
     text-align: center;
     padding: 10px 10px;
@@ -56,7 +56,20 @@ margin: 20px auto;
 }
 
 .video {
-  text-align: center;
+  background-color: #49694d; 
+  border-radius: 20px; 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4); 
+  padding: 20px; 
+  width: 500px; 
+  height: 300px;
+  margin: 20px auto; 
 }
+
+.video iframe {
+  display: block; 
+  width: 100%; 
+  height: 100%; 
+}
+
  
 /* same css as index - add module css if needed */
